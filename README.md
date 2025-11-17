@@ -1,6 +1,6 @@
 # FX Deals Management System
 
-A Spring Boot REST API for managing Foreign Exchange (FX) deals with validation, duplicate prevention, and persistence.
+A Spring Boot REST API for managing Foreign Exchange (FX) deals with validation, duplicate prevention, and persistence. Developed for ProgressSoft Corporation technical assignment.
 
 ##  Features
 
@@ -13,7 +13,7 @@ A Spring Boot REST API for managing Foreign Exchange (FX) deals with validation,
 - **Logging** - Comprehensive logging system
 - **Unit Testing** - Test coverage for critical components
 
-## 🛠 Technologies
+##  Technologies
 
 - **Java 21** - Programming language
 - **Spring Boot 3.5.7** - Application framework
