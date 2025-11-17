@@ -2,7 +2,7 @@
 
 A Spring Boot REST API for managing Foreign Exchange (FX) deals with validation, duplicate prevention, and persistence.
 
-## 🚀 Features
+##  Features
 
 - **Create FX Deals** - Accept and validate deal details
 - **Duplicate Prevention** - Ensure unique deal IDs
@@ -23,13 +23,13 @@ A Spring Boot REST API for managing Foreign Exchange (FX) deals with validation,
 - **Lombok** - Code reduction
 - **Spring Validation** - Data validation
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Java 21 or higher
 - Maven 3.6+
 - MySQL 5.5+ (or MySQL 8.0+ recommended)
 
-## 🏃‍♂️ Quick Start
+##  Quick Start
 
 ### 1. Database Setup
 ```sql
